@@ -1,0 +1,4 @@
+---
+vagrant_version: 1.8.3
+vagrant_architecture: x86_64
+vagrant_package_url: https://releases.hashicorp.com/vagrant/{{ vagrant_version }}/vagrant_{{ vagrant_version }}_{{ vagrant_architecture }}.deb
