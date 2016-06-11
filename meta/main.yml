@@ -1,5 +1,6 @@
 dependencies:
   - role: troykinsella.deb
+    deb_package_name: vagrant
     deb_package_url: "{{ vagrant_package_url }}"
 galaxy_info:
   author: Troy Kinsella
